@@ -1,1 +1,2 @@
-rev<<< string
+#!/bin/bash
+rev
